@@ -1,0 +1,5 @@
+Customer,Name,IPaddress,user
+"KCOM-Hosting","London-VService","vs-vc01.spnm.kcom.com",vmautoadmin
+"KCOM-Hosting","Bristol-VService","vs-vc03.spnm.kcom.com",vmautoadmin
+"NVC","Bristol NVC","vc01-uni.nvc.local",vmautoadmin
+"NVC","London NVC","vc01-gs2.nvc.local",vmautoadmin
